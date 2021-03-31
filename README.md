@@ -19,7 +19,7 @@ Desenvolvedora front-end de São Paulo - Brasil
 
 <table>
     <tr>
-        <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaCosta1&hide=html&layout=compact&theme=gruvbox" /></td>
-        <td><img width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=LuanaCosta1&theme=gruvbox"/></td>
+        <td display='none'><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaCosta1&hide=html&layout=compact&theme=gruvbox" /></td>
+        <td display='none'><img width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=LuanaCosta1&theme=gruvbox"/></td>
     </tr>   
 </table>
