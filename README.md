@@ -1,7 +1,6 @@
 <img width="1200px" align="left" src="https://github.com/LuanaCosta1/LuanaCosta1/blob/main/assets/BannerGHLuana.png" />  
 
-
-<h1 align="center">Olá 👋, eu sou a Luana</h1>
+<h1 align="center" margin-top="10px">Olá 👋, eu sou a Luana</h1>
 <h3 align="center"Desenvolvedora front-end de São Paulo - Brasil</h3>
 
 - 🌱 Estudante de ciência da computação na Universidade Cruzeiro do Sul e mecatrônica na ETEC Martin Luther King
