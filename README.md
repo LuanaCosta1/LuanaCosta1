@@ -12,7 +12,8 @@
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 " /></a>
 <a href="https://instagram.com/luanac.jpg" target="blank">
-<img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="luanac.jpg" /></a>
+<img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+" alt="luanac.jpg" /></a>
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
