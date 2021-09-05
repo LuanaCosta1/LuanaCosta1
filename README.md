@@ -5,7 +5,6 @@
 Desenvolvedora front-end de São Paulo - Brasil
 
 - 🌱 Estudante de ciência da computação na Universidade Cruzeiro do Sul e mecatrônica na ETEC Martin Luther King
-
 ## Social:
 <p align="left">
 <a href="https://linkedin.com/in/luana-costa-47b0061b0" target="blank">
