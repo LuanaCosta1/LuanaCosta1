@@ -26,7 +26,7 @@ Desenvolvedora full-stack de São Paulo - Brasil
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
  </p>
 
-<table>
+<table display='none'>
     <tr display='none'>
         <td display='none'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaCosta1&hide=html&layout=compact&theme=graywhite" /></td>
         <td display='none'><img align="center" src="https://github-readme-stats.vercel.app/api?username=LuanaCosta1&theme=graywhite "/></td>
