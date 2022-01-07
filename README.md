@@ -27,7 +27,7 @@ Desenvolvedora full-stack de São Paulo - Brasil
  </p>
 
 <table>
-    <tr>
+    <tr display='none'>
         <td display='none'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaCosta1&hide=html&layout=compact&theme=graywhite" /></td>
         <td display='none'><img align="center" src="https://github-readme-stats.vercel.app/api?username=LuanaCosta1&theme=graywhite "/></td>
     </tr>   
