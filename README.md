@@ -1,10 +1,12 @@
-<img width="1200px" align="left" src="https://github.com/LuanaCosta1/LuanaCosta1/blob/main/assets/BannerGHLuana.png" />  
+<img width="1200px" align="left" src="https://github.com/LuanaCosta1/LuanaCosta1/blob/main/assets/bannerGitHub-Luana_Costa.png" />  
 <br>
 
 <h1 align='center'>Olá!👋</h1> 
-Desenvolvedora front-end de São Paulo - Brasil
+Desenvolvedora full-stack de São Paulo - Brasil
 
-- 🌱 Estudante de ciência da computação na Universidade Cruzeiro do Sul e mecatrônica na ETEC Martin Luther King
+- 🌱 Estudante de ciência da computação na Universidade Cruzeiro do Sul 
+- Formada em técnico em mecatrônica na ETEC Martin Luther King
+
 ## Social:
 <p align="left">
 <a href="https://linkedin.com/in/luana-costa-47b0061b0" target="blank">
