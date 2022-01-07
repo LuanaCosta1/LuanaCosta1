@@ -4,8 +4,8 @@
 <h1 align='center'>Olá!👋</h1> 
 Desenvolvedora full-stack de São Paulo - Brasil
 
-- 🌱 Estudante de ciência da computação na Universidade Cruzeiro do Sul 
-- Formada em técnico em mecatrônica na ETEC Martin Luther King
+- 🖥️ Estudante de ciência da computação na Universidade Cruzeiro do Sul 
+- 🤖 Formada em técnico em mecatrônica na ETEC Martin Luther King
 
 ## Social:
 <p align="left">
