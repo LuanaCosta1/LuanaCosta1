@@ -1,4 +1,4 @@
-<img width="1200px" align="left" src="https://github.com/LuanaCosta1/LuanaCosta1/blob/main/assets/bannerGH-Luana_Costa.png" />  
+<img width="1200px" align="left" src="https://github.com/LuanaCosta1/LuanaCosta1/blob/main/assets/bannerGH.png" />  
 <br>
 
 <h1 align='center'>Olá!👋</h1> 
@@ -28,8 +28,8 @@ Desenvolvedora full-stack de São Paulo - Brasil
 
 <table>
     <tr display='none'>
-        <td display='none'><img align="center" src="https://github-readme-stats.vercel.app/api?username=LuanaCosta1&theme=github_dark"/></td>
-        <td display='none'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaCosta1&hide=html&layout=compact&theme=github_dark" /></td>
+        <td display='none'><img align="center" src="https://github-readme-stats.vercel.app/api?username=LuanaCosta1&theme=swift"/></td>
+        <td display='none'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaCosta1&hide=html&layout=compact&theme=swift" /></td>
     </tr>   
 </table>
 
