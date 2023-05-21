@@ -1,4 +1,4 @@
-<img width="1200px" align="left" src="https://github.com/LuanaCosta1/LuanaCosta1/blob/main/assets/bannerGH.png" />  
+<img width="600px" align="left" src="https://github.com/LuanaCosta1/LuanaCosta1/blob/main/assets/bannerGH.png" />  
 <br>
 
 <h1 align='center'>Olá!👋</h1> 
