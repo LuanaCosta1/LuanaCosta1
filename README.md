@@ -1,6 +1,3 @@
-<img width="600px" align="left" src="https://github.com/LuanaCosta1/LuanaCosta1/blob/main/assets/bannerGH.png" />  
-<br>
-
 <h1 align='center'>Olá!👋</h1> 
 Desenvolvedora full-stack de São Paulo - Brasil
 
